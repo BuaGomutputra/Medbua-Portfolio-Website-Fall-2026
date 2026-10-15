@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc"><title id="title">Tony’s Table — Duolingo poker lesson concept</title><desc id="desc">Tony, the supplied poker-teacher character, beside the title Tony’s Table.</desc><rect width="1600" height="1000" fill="#f2f3e9"/><circle cx="1250" cy="440" r="310" fill="#e3e8d7"/><g fill="none" stroke="#c3cbb4" stroke-width="2"><ellipse cx="1250" cy="440" rx="360" ry="320"/><ellipse cx="1250" cy="440" rx="390" ry="345"/></g><text x="105" y="120" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#606a51">DUOLINGO × IOVINE AND YOUNG</text><text x="95" y="350" font-family="Georgia,serif" font-size="178" fill="#303a28">Tony’s</text><text x="95" y="535" font-family="Georgia,serif" font-size="178" fill="#303a28">Table.</text><text x="105" y="640" font-family="Arial,sans-serif" font-size="34" fill="#606a51">A poker teacher with the perfect poker face.</text><g transform="translate(1010 115) scale(.83)">
+  
+  
+
+  <defs>
+    <!-- Copies of #sleeve-left / #sleeve-right, used to clip the garters. Keep in sync. -->
+    <clipPath id="clip-sleeve-left">
+      <path d="M240 280C198 326 150 420 122 520C114 548 110 572 112 590L160 600C166 560 186 480 228 400C252 356 288 330 296 306C302 278 264 254 240 280Z"/>
+    </clipPath>
+    <clipPath id="clip-sleeve-right">
+      <path d="M560 280C602 326 650 420 678 520C686 548 690 572 688 590L640 600C634 560 614 480 572 400C548 356 512 330 504 306C498 278 536 254 560 280Z"/>
+    </clipPath>
+  </defs>
+
+  <g id="poki-dealer" transform="translate(0 -24)">
+
+    <g id="legs">
+      <path id="trousers" fill="#3A3D46" d="M314 770H486V838Q486 848 476 848H424Q414 848 414 838V828Q414 820 406 820H394Q386 820 386 828V838Q386 848 376 848H324Q314 848 314 838Z"/>
+      <rect id="shoe-left" x="291" y="834" width="98" height="28" rx="14" fill="#23263A"/>
+      <rect id="shoe-right" x="411" y="834" width="98" height="28" rx="14" fill="#23263A"/>
+    </g>
+
+    <g id="torso">
+      <!-- Vest doubles as the belly silhouette -->
+      <path id="vest" fill="#CF2A36" d="M400 222C345 222 300 236 268 268C238 298 222 330 200 370C156 450 118 540 120 635C122 745 240 812 400 812C560 812 678 745 680 635C682 540 644 450 600 370C578 330 562 298 532 268C500 236 455 222 400 222Z"/>
+      <g id="shirt" fill="#EAE2D2">
+        <path id="shirt-front" d="M325.4 233L474.6 233L400 455Z"/>
+        <path id="shirt-gap" d="M371.7 811.3Q388 784 400 750Q412 784 428.3 811.3Q400 812.7 371.7 811.3Z"/>
+      </g>
+      <g id="vest-details" fill="#9C1C29">
+        <circle cx="400" cy="492" r="7"/>
+        <circle cx="400" cy="567" r="7"/>
+        <circle cx="400" cy="642" r="7"/>
+        <circle cx="400" cy="717" r="7"/>
+        <rect x="252" y="652" width="60" height="10" rx="5" transform="rotate(12 282 657)"/>
+        <rect x="488" y="652" width="60" height="10" rx="5" transform="rotate(-12 518 657)"/>
+      </g>
+      <g id="bowtie" transform="rotate(-7 400 334)">
+        <path fill="#2C2B33" d="M398 334L378 323Q372 320 372 327V341Q372 348 378 345Z"/>
+        <path fill="#2C2B33" d="M402 334L422 323Q428 320 428 327V341Q428 348 422 345Z"/>
+        <rect fill="#45444F" x="392" y="327" width="16" height="14" rx="5"/>
+      </g>
+    </g>
+
+    <g id="arms">
+      <g id="arm-left" transform="translate(-8 0)">
+        <g id="hand-left" fill="#E9A57E">
+          <path d="M113 588C101 606 100 640 116 654C128 664 150 662 158 646C164 632 164 610 158 598Z"/>
+          <ellipse cx="162" cy="626" rx="9" ry="13" transform="rotate(28 162 626)"/>
+        </g>
+        <path id="sleeve-left" fill="#EAE2D2" d="M240 280C198 326 150 420 122 520C114 548 110 572 112 590L160 600C166 560 186 480 228 400C252 356 288 330 296 306C302 278 264 254 240 280Z"/>
+        <g id="garter-left" clip-path="url(#clip-sleeve-left)">
+          <rect fill="#9C1C29" x="150" y="397" width="100" height="14" transform="rotate(23 200 404)"/>
+        </g>
+      </g>
+
+      <g id="arm-right" transform="translate(8 0)">
+        <path id="hand-right" fill="#E9A57E" d="M687 588C699 606 700 640 684 654C672 664 650 662 642 646C636 632 636 610 642 598Z"/>
+        <path id="sleeve-right" fill="#EAE2D2" d="M560 280C602 326 650 420 678 520C686 548 690 572 688 590L640 600C634 560 614 480 572 400C548 356 512 330 504 306C498 278 536 254 560 280Z"/>
+        <g id="garter-right" clip-path="url(#clip-sleeve-right)">
+          <rect fill="#9C1C29" x="550" y="397" width="100" height="14" transform="rotate(-23 600 404)"/>
+        </g>
+        <!-- Cards sit between the fingers and the thumb -->
+        <g id="cards" transform="translate(650 624) rotate(-8)">
+          <g id="card-back" transform="rotate(-16 0 6)">
+            <rect x="-20" y="-6" width="46" height="64" rx="6" fill="#2F3E70"/>
+            <rect x="-15" y="-1" width="36" height="54" rx="3" fill="#4A5D9C"/>
+          </g>
+          <g id="card-face">
+            <rect x="-25" y="-6" width="46" height="64" rx="6" fill="#FBF7EF"/>
+            <path d="M-2 22L8 34L-2 46L-12 34Z" fill="#CF2A36"/>
+          </g>
+        </g>
+        <ellipse id="thumb-right" cx="645" cy="618" rx="9" ry="18" fill="#E9A57E" transform="rotate(20 645 618)"/>
+      </g>
+    </g>
+
+    <g id="head" transform="rotate(-9 400 290)">
+      <g id="ears" fill="#CF8862">
+        <circle cx="311" cy="210" r="16"/>
+        <circle cx="489" cy="210" r="16"/>
+      </g>
+      <path id="skull" fill="#E9A57E" d="M400 88C448 88 474 114 477 156C480 192 494 226 490 254C486 286 448 300 400 300C352 300 314 286 310 254C306 226 320 192 323 156C326 114 352 88 400 88Z"/>
+
+      <g id="hair" fill="#3A3536">
+        <path id="tuft-left" d="M328 148C312 156 302 180 306 204C318 202 328 192 333 178C336 166 335 154 328 148Z"/>
+        <path id="strand-1" d="M477 170C454 130 386 120 340 150C386 128 452 138 470 173Z"/>
+        <path id="strand-2" d="M478 154C456 112 382 102 346 128C384 110 456 122 472 157Z"/>
+        <path id="strand-3" d="M476 140C458 102 395 93 361.3 108.7C352.3 113 334 100 336 86C337 96 349.7 107.6 358.7 103.3C393 87 455 96 470 142Z"/>
+        <path id="tuft-right" d="M472 134C490 144 500 176 494 208C480 206 468 192 463 174C459 158 462 142 472 134Z"/>
+      </g>
+
+      <g id="face">
+        <g id="brows" fill="#3A3536">
+          <rect x="352" y="160" width="36" height="11" rx="5.5" transform="rotate(-6 370 165.5)"/>
+          <rect x="411" y="155" width="36" height="11" rx="5.5" transform="rotate(10 429 160.5)"/>
+        </g>
+        <g id="eyes">
+          <rect x="356" y="182" width="28" height="38" rx="14" fill="#FFFFFF"/>
+          <rect x="414" y="180" width="28" height="38" rx="14" fill="#FFFFFF"/>
+          <circle cx="367" cy="208" r="8" fill="#2E2A2B"/>
+          <circle cx="424" cy="206" r="8" fill="#2E2A2B"/>
+          <path id="lid-left" fill="#CF8862" d="M354 203.5V196A16 16 0 0 1 386 196V200.5Z"/>
+          <path id="lid-right" fill="#CF8862" d="M412 198.5V194A16 16 0 0 1 444 194V202.5Z"/>
+        </g>
+        <path id="mouth" fill="#7C2B2E" d="M393 273C404 270 421 272 432 280C425 285 410 285 401 282C395 280 392 277 393 273Z"/>
+        <path id="mustache" fill="#3A3536" d="M400 230C424 228 446 236 454 254C460 268 458 280 450 282C442 284 436 272 428 264C420 258 408 258 400 263C392 258 380 258 372 264C364 272 358 284 350 282C342 280 340 268 346 254C354 236 376 228 400 230Z"/>
+        <path id="nose" fill="#CF8862" d="M400 200C412 200 416 214 420 220C428 228 428 242 414 244C406 245 394 245 386 244C372 242 372 228 380 220C384 214 388 200 400 200Z"/>
+      </g>
+    </g>
+
+  </g>
+</g><text x="105" y="893" font-family="Arial,sans-serif" font-size="21" letter-spacing="3" fill="#606a51">CHARACTER CONCEPT · BEGINNER LEARNING · TEAM PITCH</text></svg>

@@ -1,0 +1,1770 @@
+[
+  {
+    "project": "bloom",
+    "source": "/assets/bloom/photo-1.webp",
+    "path": "assets/uploads/bloom--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/bloom--photo-1.webp",
+    "bytes": 334090,
+    "sha256": "65e066ef48264722f816fbfac07c530883b7bb6abab6b1fb11dc94bbb7a392bd"
+  },
+  {
+    "project": "bloom",
+    "source": "/assets/bloom/photo-2.webp",
+    "path": "assets/uploads/bloom--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/bloom--photo-2.webp",
+    "bytes": 272340,
+    "sha256": "8f364405f0ec4f0e17f49dff904756e572310be48d5683df3cae854ac350df61"
+  },
+  {
+    "project": "bloom",
+    "source": "/assets/bloom/photo-3.webp",
+    "path": "assets/uploads/bloom--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/bloom--photo-3.webp",
+    "bytes": 348482,
+    "sha256": "61d70d339247989abc2a571d9081c115f42264d1549c84c55f4a20b8410a6538"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/app-showcase.webp",
+    "path": "assets/uploads/buzztile--app-showcase.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--app-showcase.webp",
+    "bytes": 170810,
+    "sha256": "f2aac4a1334eb2f9990e8ba389fa1f18630f705fbb91c97802423b6112c9e594"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/concept-development.webp",
+    "path": "assets/uploads/buzztile--concept-development.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--concept-development.webp",
+    "bytes": 749216,
+    "sha256": "3ce088e1ba225b5e22a140148ad8887e60bbb3a4f2180b2b2a08d310dd557050"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/interface-board.webp",
+    "path": "assets/uploads/buzztile--interface-board.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--interface-board.webp",
+    "bytes": 391388,
+    "sha256": "95378d7db376b2cd921b4c2a1960543dbb40f02bd8c9844cdc2bccf4d01e8cce"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/interface-ideation.webp",
+    "path": "assets/uploads/buzztile--interface-ideation.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--interface-ideation.webp",
+    "bytes": 90698,
+    "sha256": "ac192e08984d71fe387af5a59f80abf2b07515243a7cdee7998c759b596e5ee1"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/main-product.webp",
+    "path": "assets/uploads/buzztile--main-product.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--main-product.webp",
+    "bytes": 828886,
+    "sha256": "14a5bd54a9063530881fa18c23010d35074d0eb9c57f14c1716a25f2347e7698"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-1.webp",
+    "path": "assets/uploads/buzztile--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-1.webp",
+    "bytes": 91594,
+    "sha256": "7384a56aacaf2553ae2d09e7ceed2854d57c0ce0848aeb9cd8f536cd637a26b3"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-10.webp",
+    "path": "assets/uploads/buzztile--photo-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-10.webp",
+    "bytes": 364732,
+    "sha256": "4f98111252fedd2d99403ab292dd83a13065746e40a800a18f66c366e53f95ea"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-11.webp",
+    "path": "assets/uploads/buzztile--photo-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-11.webp",
+    "bytes": 377384,
+    "sha256": "76d59132ca01092d8001d3916bd4114bf194b5c36b620cd8cb1fce0f475c26dd"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-12.webp",
+    "path": "assets/uploads/buzztile--photo-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-12.webp",
+    "bytes": 296272,
+    "sha256": "26e38720e90fe6ae5f15ffe759dcead7cc8bcba0aae9da10c8ed83d437969c7e"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-13.webp",
+    "path": "assets/uploads/buzztile--photo-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-13.webp",
+    "bytes": 317028,
+    "sha256": "5dc012f3e0ba3365cabbe2b37d2fb3753b8917fa3bc48b5f2b98e6c2d033c96b"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-14.webp",
+    "path": "assets/uploads/buzztile--photo-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-14.webp",
+    "bytes": 219592,
+    "sha256": "80e5626e46fb1afd1b7c9535f31d0b6535c5092b5f8240bd2d8a040b9dd51e30"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-15.webp",
+    "path": "assets/uploads/buzztile--photo-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-15.webp",
+    "bytes": 182362,
+    "sha256": "b8aced162914a76476ffaa2a85b034fecb93bfb591770fb40bf40896e7052e61"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-16.webp",
+    "path": "assets/uploads/buzztile--photo-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-16.webp",
+    "bytes": 131042,
+    "sha256": "b7ced361962de9f4c1dd97da01080cd26a8348cfba632314f83471413aa3b552"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-17.webp",
+    "path": "assets/uploads/buzztile--photo-17.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-17.webp",
+    "bytes": 173234,
+    "sha256": "08a71f0d8359f699cdd53d8efc1da0657a97ddb45b6a2e5051b54ba94a937047"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-18.webp",
+    "path": "assets/uploads/buzztile--photo-18.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-18.webp",
+    "bytes": 73908,
+    "sha256": "2579992b45aaed93ee4a9b70e259e9af5e399412fb5c976b9507a5641574136a"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-2.webp",
+    "path": "assets/uploads/buzztile--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-2.webp",
+    "bytes": 296472,
+    "sha256": "70f3dd1df574773bbd7dd5f08703c2579a08b77a25d1ec0a56b00fc95981898e"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-3.webp",
+    "path": "assets/uploads/buzztile--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-3.webp",
+    "bytes": 273620,
+    "sha256": "55c1c36608bf945edc131219468329e299e822f2045f61cb766b866619b13d85"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-4.webp",
+    "path": "assets/uploads/buzztile--photo-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-4.webp",
+    "bytes": 374080,
+    "sha256": "10f630d045f49d9c8b0e6f8ded55d4bf243626faeaf9b7a9e72e1777c2556e81"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-5.webp",
+    "path": "assets/uploads/buzztile--photo-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-5.webp",
+    "bytes": 474256,
+    "sha256": "1f2697128eaabf8345272f89550474ffe9018d8f2d5b9d2f3780adca8f1e7c02"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-6.webp",
+    "path": "assets/uploads/buzztile--photo-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-6.webp",
+    "bytes": 162230,
+    "sha256": "cf5b3a4c4f97cbc212b22f24a44237b76cdc57a24d058e9bff6cc3eaf13cd2b0"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-7.webp",
+    "path": "assets/uploads/buzztile--photo-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-7.webp",
+    "bytes": 184422,
+    "sha256": "ed35da2d38e9d884389020cf15e188d67a349ff8a98d0abbc55b3fd7f6b79322"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-8.webp",
+    "path": "assets/uploads/buzztile--photo-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-8.webp",
+    "bytes": 328948,
+    "sha256": "46940e1cd2c780e4fa4c438c3876c02902d097d2659e5d5f5bb1fb727c86d7be"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/photo-9.webp",
+    "path": "assets/uploads/buzztile--photo-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--photo-9.webp",
+    "bytes": 394168,
+    "sha256": "b467358a8bd2c7974df3924c4ddc90a6c2d3f251ef1c658901d6582164e466af"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/product-circuits.webp",
+    "path": "assets/uploads/buzztile--product-circuits.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--product-circuits.webp",
+    "bytes": 1122544,
+    "sha256": "c218f8c23ac0447903a0fee55d7212fc611fae8faa946bdd4594c3cd2623e27a"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-1.webp",
+    "path": "assets/uploads/buzztile--slide-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-1.webp",
+    "bytes": 287116,
+    "sha256": "99750dd605df6fa6ccb87b4d0af81a5bd4cc0e5d2972ba33d8346ddcf2522b55"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-10.webp",
+    "path": "assets/uploads/buzztile--slide-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-10.webp",
+    "bytes": 179416,
+    "sha256": "1fd8a73da88f65a2285343df9dffb9c027681365b7c703143861f5d27de766b7"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-11.webp",
+    "path": "assets/uploads/buzztile--slide-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-11.webp",
+    "bytes": 66654,
+    "sha256": "bae63bc1dd011cffb83804ee9eb1f45d4565a58619cf4ab0689f10b2e6e62b44"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-12.webp",
+    "path": "assets/uploads/buzztile--slide-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-12.webp",
+    "bytes": 120474,
+    "sha256": "45bca4f2855e2be70781b2516e0d5de50f906d04fab1221bc2b7675436c3eca5"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-13.webp",
+    "path": "assets/uploads/buzztile--slide-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-13.webp",
+    "bytes": 122896,
+    "sha256": "074af9417bcb266abaadea47f32fafa38a420df3eec2e03ab3cd6904f54942fd"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-14.webp",
+    "path": "assets/uploads/buzztile--slide-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-14.webp",
+    "bytes": 237762,
+    "sha256": "d475badddf8c9ff91009530501032c8b518c8509f28c7316e68cabf75e3fc4f3"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-15.webp",
+    "path": "assets/uploads/buzztile--slide-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-15.webp",
+    "bytes": 193482,
+    "sha256": "4769b2391393d5950d2894fdf8954fb1cec56837e8a70114a98576f24681b4ba"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-16.webp",
+    "path": "assets/uploads/buzztile--slide-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-16.webp",
+    "bytes": 168064,
+    "sha256": "4a3cabd6b7b5098a2a4a429122cf0c04a99e8c464d62d9cf8eb9d5f1cabd851b"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-17.webp",
+    "path": "assets/uploads/buzztile--slide-17.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-17.webp",
+    "bytes": 103914,
+    "sha256": "be9fa868f2e28f45a4a44609a64a387e878cb11c6b3244834ce5f35262cf70cd"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-18.webp",
+    "path": "assets/uploads/buzztile--slide-18.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-18.webp",
+    "bytes": 110930,
+    "sha256": "f3d78e6ac9d67fba0933641fbfc1f32acd50e5e3877222830d009162a09bc3b6"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-19.webp",
+    "path": "assets/uploads/buzztile--slide-19.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-19.webp",
+    "bytes": 284258,
+    "sha256": "21d66c141ef3bd318d635afa1152959e22b45def3bb7fc896e48a7bc768b62f9"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-2.webp",
+    "path": "assets/uploads/buzztile--slide-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-2.webp",
+    "bytes": 281972,
+    "sha256": "93bfa6e04767009258a1ff3f58eb995012d3f81e7e805d57b7650d2dddd7d14a"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-20.webp",
+    "path": "assets/uploads/buzztile--slide-20.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-20.webp",
+    "bytes": 382186,
+    "sha256": "3c0c5763db7a3ea9e05a660cf4d87d1932743163840c0e71b4589c900c995094"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-21.webp",
+    "path": "assets/uploads/buzztile--slide-21.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-21.webp",
+    "bytes": 118408,
+    "sha256": "ee169f2553dd804c35b25d67f6033435718792ee9b723e2d552bceee57a072d9"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-22.webp",
+    "path": "assets/uploads/buzztile--slide-22.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-22.webp",
+    "bytes": 144358,
+    "sha256": "0fe9c8021e2c3fe547a32a121a1fbe2e206e0254105ff52ab8217482c470a96d"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-23.webp",
+    "path": "assets/uploads/buzztile--slide-23.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-23.webp",
+    "bytes": 215408,
+    "sha256": "06c00225e223ea8baebc636f7b993812e9e6e3e6790258bbe32f0283eabf6645"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-24.webp",
+    "path": "assets/uploads/buzztile--slide-24.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-24.webp",
+    "bytes": 61658,
+    "sha256": "06d1c5a9b53f5954128c0660b614b491887874ae6eadeefb357ace1c45fb4dad"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-25.webp",
+    "path": "assets/uploads/buzztile--slide-25.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-25.webp",
+    "bytes": 99140,
+    "sha256": "c276b011100af5595df3a5f01da82f99f576cd310068e51481e45c6bed4274a5"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-26.webp",
+    "path": "assets/uploads/buzztile--slide-26.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-26.webp",
+    "bytes": 69054,
+    "sha256": "1b69d9f4e9f591c06d612aa8ff23f472a02cce055b419cdd4a97b082d1264ef4"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-27.webp",
+    "path": "assets/uploads/buzztile--slide-27.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-27.webp",
+    "bytes": 275872,
+    "sha256": "ce5038fda101caf78bfaf00c8317aeb7fcd2eb6e866153cfceed950288babc37"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-28.webp",
+    "path": "assets/uploads/buzztile--slide-28.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-28.webp",
+    "bytes": 183090,
+    "sha256": "8b1227e69a4c98e043d1334ce850db2b0c94d82946b52ce51212ea09f0083c31"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-29.webp",
+    "path": "assets/uploads/buzztile--slide-29.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-29.webp",
+    "bytes": 294758,
+    "sha256": "b89e67d2c069fcd023cdce5a5c8c2c9d4298a8f2c655534388fa081b3e1eaae9"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-3.webp",
+    "path": "assets/uploads/buzztile--slide-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-3.webp",
+    "bytes": 241690,
+    "sha256": "8cb0811459b8e08e48347fee0fe8d64f4f6a1c1c8acfb42263326d0d6b9b69e5"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-4.webp",
+    "path": "assets/uploads/buzztile--slide-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-4.webp",
+    "bytes": 139740,
+    "sha256": "0fee50d451836b662c88893581a0eccab6a5f74396bf2e144a95f309c1989ab5"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-5.webp",
+    "path": "assets/uploads/buzztile--slide-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-5.webp",
+    "bytes": 231916,
+    "sha256": "154a33f135afc422828a32083f7e4d2334e6be2bd69c51f34b57932dd30b9d90"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-6.webp",
+    "path": "assets/uploads/buzztile--slide-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-6.webp",
+    "bytes": 118860,
+    "sha256": "783c3a165b3dcb8d514e6dd16696b4394aa90f7c92949a1a286a2fd8d1a61c5c"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-7.webp",
+    "path": "assets/uploads/buzztile--slide-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-7.webp",
+    "bytes": 327086,
+    "sha256": "4481c115e40c8916b43430222fdf1d5d6c3cd3ec0e3103060f944f0afd222496"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-8.webp",
+    "path": "assets/uploads/buzztile--slide-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-8.webp",
+    "bytes": 260410,
+    "sha256": "6b1abb8b4928f0e1f3463a42575b3601dbacb95953f88f8602ca94c563292b0e"
+  },
+  {
+    "project": "energy-tiles",
+    "source": "/assets/buzztile/slide-9.webp",
+    "path": "assets/uploads/buzztile--slide-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/buzztile--slide-9.webp",
+    "bytes": 267510,
+    "sha256": "e88610072940c13fd08c5b89a34a0781671a27b0e646ff44220711883650dcf5"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/application-design.webp",
+    "path": "assets/uploads/ecopinet--application-design.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--application-design.webp",
+    "bytes": 192380,
+    "sha256": "826a7f9e802b8c9cf6c58014b6e375de741cb5989f7700fa975370c2319b071f"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/business-plan.webp",
+    "path": "assets/uploads/ecopinet--business-plan.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--business-plan.webp",
+    "bytes": 477176,
+    "sha256": "3f93da955b00d7defc26426ce76300cabb88ca9168d38b364bf95ed9c37f0f3c"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-1.webp",
+    "path": "assets/uploads/ecopinet--deck-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-1.webp",
+    "bytes": 500700,
+    "sha256": "aa6c1190cb89c6cc29736e67ff57929783961f442dc86598667043f2cf2b74cd"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-10.webp",
+    "path": "assets/uploads/ecopinet--deck-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-10.webp",
+    "bytes": 342784,
+    "sha256": "7836a175716f13c36c8c33dd76624fa5147d3f7549779509178693c39a96b23b"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-2.webp",
+    "path": "assets/uploads/ecopinet--deck-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-2.webp",
+    "bytes": 464440,
+    "sha256": "61d6e4416645a98998cffe48f1827132304c4c7b2a794cd3c02724d696eb9750"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-3.webp",
+    "path": "assets/uploads/ecopinet--deck-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-3.webp",
+    "bytes": 401338,
+    "sha256": "b0f5118787af20f5ebdf0e3c66252ff81e6c11ae342ab88993a2e27031cb9674"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-4.webp",
+    "path": "assets/uploads/ecopinet--deck-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-4.webp",
+    "bytes": 526706,
+    "sha256": "58e943569cecf9058459391846256435591cd060f152cce58c1198fb0c545464"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-5.webp",
+    "path": "assets/uploads/ecopinet--deck-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-5.webp",
+    "bytes": 398438,
+    "sha256": "be15fa658ec3b5b3952de6d17ec1a6f14fc3f13e6c4a0766a809b8088448850b"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-6.webp",
+    "path": "assets/uploads/ecopinet--deck-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-6.webp",
+    "bytes": 262648,
+    "sha256": "c4600eab5cc1b0f9ecbcef4c34fb61838b558a099c2b810b3451297ac6f5c095"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-7.webp",
+    "path": "assets/uploads/ecopinet--deck-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-7.webp",
+    "bytes": 482572,
+    "sha256": "92db2af6cdf8322022f45202bc17521ee05e00d3546983b71f59fa3d79fccaea"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-8.webp",
+    "path": "assets/uploads/ecopinet--deck-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-8.webp",
+    "bytes": 279166,
+    "sha256": "e8b8a09082b1cfb4ddfce1f2cc06b8353e8a21437885815a0c26aa83499508f5"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/deck-9.webp",
+    "path": "assets/uploads/ecopinet--deck-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--deck-9.webp",
+    "bytes": 351466,
+    "sha256": "974d7044523d3ab2a03fccb957b1cedce8fbcd0617427bc999f34f66a1521394"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-1.webp",
+    "path": "assets/uploads/ecopinet--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-1.webp",
+    "bytes": 201038,
+    "sha256": "2f99436b36e0c0cecbaf0e7f0cc6a945603a23634dd117e9fea2be7c59d6f753"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-10.webp",
+    "path": "assets/uploads/ecopinet--photo-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-10.webp",
+    "bytes": 132132,
+    "sha256": "69a6eaefdcd029b313697a21a03e53e038b7c4c45af37e08c6ff01ff700b183f"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-11.webp",
+    "path": "assets/uploads/ecopinet--photo-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-11.webp",
+    "bytes": 175550,
+    "sha256": "2bcfa261377a3afa00cd22a3679755496c77895687a528d3e609b1faef1c1b22"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-12.webp",
+    "path": "assets/uploads/ecopinet--photo-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-12.webp",
+    "bytes": 273910,
+    "sha256": "ab323207ab140521cc3b7124417bc02747c5a979be336a4e7985cd579086b815"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-13.webp",
+    "path": "assets/uploads/ecopinet--photo-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-13.webp",
+    "bytes": 375206,
+    "sha256": "4cbd7989a3550e5b62e8b1be94cb8fec65a1e0eedfd83c38ddff6a2861821730"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-14.webp",
+    "path": "assets/uploads/ecopinet--photo-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-14.webp",
+    "bytes": 212300,
+    "sha256": "e7cf54918adb18427856c096b501f104d60097c83abd1127b843b9d736629739"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-15.webp",
+    "path": "assets/uploads/ecopinet--photo-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-15.webp",
+    "bytes": 645444,
+    "sha256": "fbca813bc09a9164948d50866ce2e49b32342c1ebd084fbe2fe607130e1306bc"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-16.webp",
+    "path": "assets/uploads/ecopinet--photo-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-16.webp",
+    "bytes": 238720,
+    "sha256": "34f1975c768fc931cc64f3698fb245c38c5665db2ab7f9f5f53257f718700191"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-17.webp",
+    "path": "assets/uploads/ecopinet--photo-17.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-17.webp",
+    "bytes": 342530,
+    "sha256": "d1fc7e9ad38d756923895fc96cf63e83eeab36644b4697ecfd291c8d86040b4a"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-2.webp",
+    "path": "assets/uploads/ecopinet--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-2.webp",
+    "bytes": 253382,
+    "sha256": "4bf5bc3bb1ac23b3b08f3aab00ce381b69bece1db2d27855064ac3d8a1f05f12"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-3.webp",
+    "path": "assets/uploads/ecopinet--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-3.webp",
+    "bytes": 247692,
+    "sha256": "0fc924f3f48b55dc9baab62a968e3681f7c8d61103d892e1324efa1dbd28ea9b"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-4.webp",
+    "path": "assets/uploads/ecopinet--photo-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-4.webp",
+    "bytes": 323740,
+    "sha256": "bb7c9dcf4342e7bd43be8fc8a70708e9e04d94bb58290e87275d7da62cd16d17"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-5.webp",
+    "path": "assets/uploads/ecopinet--photo-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-5.webp",
+    "bytes": 664270,
+    "sha256": "479c5931d592f7b514eba94be447b1755995e9b56950ee5296a87c41445bd087"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-6.webp",
+    "path": "assets/uploads/ecopinet--photo-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-6.webp",
+    "bytes": 464034,
+    "sha256": "c7ed5a502446e3f76ef0b55ce399b8b51eddffbc8d93c086402847c9107a7d56"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-7.webp",
+    "path": "assets/uploads/ecopinet--photo-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-7.webp",
+    "bytes": 372946,
+    "sha256": "5e532c42809e22ea1e52606d1c655afc960f9193307c38e5cbef673251d6fe6a"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-8.webp",
+    "path": "assets/uploads/ecopinet--photo-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-8.webp",
+    "bytes": 147800,
+    "sha256": "4fa037617e2912681d7fae8d1f06fb946732cd185a20ae16f99aa625c2cfa65d"
+  },
+  {
+    "project": "ecopinet",
+    "source": "/assets/ecopinet/photo-9.webp",
+    "path": "assets/uploads/ecopinet--photo-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ecopinet--photo-9.webp",
+    "bytes": 216768,
+    "sha256": "1fb1dfafe99e7e2a3d2a9b696fd50b2d55b28de76ad0579baaffd7fd81c973df"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-1.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-1.webp",
+    "bytes": 647858,
+    "sha256": "2c2259e63d9add5a571df4a95a7bb1119539f71f27306f2fc9ba35eee12a169e"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-2.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-2.webp",
+    "bytes": 413382,
+    "sha256": "07e61f37548ddc65aa153fea12a04aa947644280eeec76b375e406595e943e4d"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-3.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-3.webp",
+    "bytes": 447768,
+    "sha256": "e35a9646978de1fedfa607d79df6f9314df4aab9e05e58b6c3b29b6d45b42298"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-4.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-4.webp",
+    "bytes": 631926,
+    "sha256": "498d70a5bebb255147e31c95365a0a6a1608cbac156301ee6b51df974fdcf4ed"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-5.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-5.webp",
+    "bytes": 411410,
+    "sha256": "de489e8147b74d0256a530aab8a7b35b0507a57e7a480fa029ccfc694d3d8de8"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-6.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-6.webp",
+    "bytes": 610978,
+    "sha256": "97af8fd956690b8375df9332c4a9828fd8f7d8b2fe5b328b048ef5b81eea2dbf"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-7.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-7.webp",
+    "bytes": 815030,
+    "sha256": "1fb01c8a7bab6f01990f0e2597c6d228c31e0701d0261519b0f42823e7afb218"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/coursework-8.webp",
+    "path": "assets/uploads/ev-charging-hub--coursework-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--coursework-8.webp",
+    "bytes": 470638,
+    "sha256": "d853a6933af874244884a67f0b7250c10eda90724ca810e87ff49f1f543519e9"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/final-coursework.pdf",
+    "path": "assets/uploads/ev-charging-hub--final-coursework.pdf",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--final-coursework.pdf",
+    "bytes": 9468407,
+    "sha256": "d07114a1d44ba1271515758892d462b4970065688d8ee4b44b6cf259a96b7bf8"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-1.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-1.webp",
+    "bytes": 452140,
+    "sha256": "2954a8c0f75dbe4e20c117321fd4e40e8691357d61afbace01ab2c336f434d28"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-10.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-10.webp",
+    "bytes": 397440,
+    "sha256": "c2d2dd344d90fde3d0c5e5355c15674edd68b036f16e1daa557956339660f5f4"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-11.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-11.webp",
+    "bytes": 364524,
+    "sha256": "ed1210f7899d854308cb4d64e4ac90f69b9e8a5250f8fbcd6b1d1573be1d4b9c"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-12.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-12.webp",
+    "bytes": 587084,
+    "sha256": "dc2c75ce6e724bb6c44f25e26121414b60abdd841562074ba0261d931ffefd7f"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-13.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-13.webp",
+    "bytes": 565458,
+    "sha256": "9fe71f0bc1aeca5a83533b7244422372b0ab7e5c13bfcc7d533ab7e58e8c8535"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-14.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-14.webp",
+    "bytes": 858442,
+    "sha256": "472acf1b042284f8b4144d841b828fa4d56119676d57353c3dbb2339e6dce3d4"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-15.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-15.webp",
+    "bytes": 455510,
+    "sha256": "f070b799d1ae85f3aed69da3b25e9a2e055810298593bf46f979d2927f9901dc"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-16.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-16.webp",
+    "bytes": 655240,
+    "sha256": "838292f0b81224e5309c84f27983c1ac8122df1a42da5b38069803394e46ac29"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-2.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-2.webp",
+    "bytes": 630184,
+    "sha256": "87a3bb17e61b144ec62ca979ca2ab8c0f5f28628d6053bea3d9caab7deebb106"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-3.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-3.webp",
+    "bytes": 503668,
+    "sha256": "94f11e30d552995ceee1f3c12f09b569d80ff5036bf3bd40a0ad14bdcdda5bc0"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-4.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-4.webp",
+    "bytes": 334936,
+    "sha256": "4a653e2bed1ac5a02533934be900dcf11973f40cbfc2a54466f1a268f637dcce"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-5.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-5.webp",
+    "bytes": 297442,
+    "sha256": "7bbcea4036dec59fac16bb423fbb674ac8f845b2eb295ddfe7468626229e73d0"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-6.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-6.webp",
+    "bytes": 364602,
+    "sha256": "06945c8003fbb834c9c438ea02d031f8dda45f5128befc67f33d811a4be95700"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-7.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-7.webp",
+    "bytes": 331774,
+    "sha256": "c351bd24b623e199a8401ea8953bef05efbc818c01ced5c8e60377d43569dd32"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-8.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-8.webp",
+    "bytes": 444248,
+    "sha256": "819fcb7d86f83ac65eba3b4db255096245f38305980eea3ca950ab81425c5125"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/nea-slide-9.webp",
+    "path": "assets/uploads/ev-charging-hub--nea-slide-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--nea-slide-9.webp",
+    "bytes": 588146,
+    "sha256": "74332403ecb21f5a0a953b65c4c3a30ba25a0acb51b18efbb72934e38535ee74"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-1.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-1.webp",
+    "bytes": 117114,
+    "sha256": "d1b84432d359a6cb4af7161b84d3842700a12fe1d89390595e7dbc065cefa7cb"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-10.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-10.webp",
+    "bytes": 380804,
+    "sha256": "acd65b9d9ebcfb03034856762f1648a60a1e54c4c80d0c22e338ab9ce7bf4f17"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-11.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-11.webp",
+    "bytes": 134300,
+    "sha256": "93d6ac8202468fee237235fa30fbfd5531a41c7ed110d61ef3512e55d15b5d2f"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-2.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-2.webp",
+    "bytes": 258242,
+    "sha256": "dc99fe49e610815300ce57eb8e71dc9b8a77f8b9e89e9c45008136ec7e67a07a"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-3.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-3.webp",
+    "bytes": 258756,
+    "sha256": "d4ebbfa1f7b953a7ba946b002f8790d8776cf0ce037001bc978919a242db99f1"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-4.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-4.webp",
+    "bytes": 215532,
+    "sha256": "3c038e6fd903e456bd15bc1a663ef180276fd22b31bf4875f4b1d91bf626b744"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-5.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-5.webp",
+    "bytes": 210948,
+    "sha256": "216c553e37cd47293a357b322c40cb6449ab91e4d340456b15acd0de4e7b243c"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-6.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-6.webp",
+    "bytes": 157228,
+    "sha256": "0b2ee3f4238df5885fa18ecf3fa5e54905e5d6f01ecd0b671295d4731f1169fc"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-7.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-7.webp",
+    "bytes": 219516,
+    "sha256": "d60151d0427f78864368e0710c49065a6a9ef842ad5cd9037f1f6f3d3f1dc9d5"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-8.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-8.webp",
+    "bytes": 171840,
+    "sha256": "8d78d05e072c738a89ba16c850bdce1318321c789ecf4d5d14de23f5f8b75d6c"
+  },
+  {
+    "project": "ev-charging-hub",
+    "source": "/assets/ev/photo-9.webp",
+    "path": "assets/uploads/ev-charging-hub--photo-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/ev-charging-hub--photo-9.webp",
+    "bytes": 296656,
+    "sha256": "06546110aa31397908fa8befc1975b1ab8cb3321b8c3727c97f17c2d0f58afcb"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-1.webp",
+    "path": "assets/uploads/homepage--carousel-new-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-1.webp",
+    "bytes": 224970,
+    "sha256": "4628a70c0eb5b092c65a2af0d6ca72d50d69118cf745126402a1da22fd314526"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-2.webp",
+    "path": "assets/uploads/homepage--carousel-new-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-2.webp",
+    "bytes": 137802,
+    "sha256": "1c0c157cd937103bbafdc351a1024995b3e61e969343bf0d6c1d20c9b8b07a1f"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-3.webp",
+    "path": "assets/uploads/homepage--carousel-new-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-3.webp",
+    "bytes": 217150,
+    "sha256": "cb553a21be1f25bc9b190ca1ecb65e0b9c2b36fc22bfda3927f8a56ba442418f"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-4.webp",
+    "path": "assets/uploads/homepage--carousel-new-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-4.webp",
+    "bytes": 291644,
+    "sha256": "f45e357122c51fbaf0bb174248ab2a087b1add2d7ff4e38c5f350a7a86d6fd90"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-5.webp",
+    "path": "assets/uploads/homepage--carousel-new-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-5.webp",
+    "bytes": 156016,
+    "sha256": "310c35e83abf4893951cb6c9e50dc2b736669d76d1407537bb47879340d14f40"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-6.webp",
+    "path": "assets/uploads/homepage--carousel-new-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-6.webp",
+    "bytes": 160050,
+    "sha256": "c431b7d4c926b99968512acd8805d48da8a362534fc123af87caa6031c4d0b7c"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-7.webp",
+    "path": "assets/uploads/homepage--carousel-new-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-7.webp",
+    "bytes": 124500,
+    "sha256": "267b38a387e09200a2dd2bb040897f2f603c3926453c4478a2c1daaf26d8ece1"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/carousel-new-8.webp",
+    "path": "assets/uploads/homepage--carousel-new-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--carousel-new-8.webp",
+    "bytes": 97220,
+    "sha256": "6d45a437950c084af01c67e457ed699deb3021a1a7d4a0fc85f20a017460bbf3"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-1.webp",
+    "path": "assets/uploads/homepage--moment-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-1.webp",
+    "bytes": 83632,
+    "sha256": "a41c5c01826864b741fb1eab3a4ec929ac2a2d443a5803b1c32c32161366e1ee"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-2.webp",
+    "path": "assets/uploads/homepage--moment-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-2.webp",
+    "bytes": 330572,
+    "sha256": "f410d9f74680b6a7fc9fa7a4ab3c36932741e565cb9d192b7d07591ca4afe08e"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-3.webp",
+    "path": "assets/uploads/homepage--moment-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-3.webp",
+    "bytes": 109104,
+    "sha256": "444e6bf67dc32eecc5dc023e2f7d267d492290c702a83092bc7c2c5b15b26d57"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-4.webp",
+    "path": "assets/uploads/homepage--moment-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-4.webp",
+    "bytes": 73760,
+    "sha256": "5e5ea81bab513e23095f4fd15508b1ff8a5eb27688ad50f8d8d3129f80e3bc15"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-5.webp",
+    "path": "assets/uploads/homepage--moment-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-5.webp",
+    "bytes": 99144,
+    "sha256": "85c94d48c8ea104fbbddf5e5aaaa81f65aea272ade4f83f0a4eff90914c8ecf2"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-6.webp",
+    "path": "assets/uploads/homepage--moment-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-6.webp",
+    "bytes": 54680,
+    "sha256": "81520d25f87252ec1feec2b52ea833557a722afe97200a76385b0ae123f04fc8"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/moment-7.webp",
+    "path": "assets/uploads/homepage--moment-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--moment-7.webp",
+    "bytes": 69860,
+    "sha256": "a4f442729c702bc65297c3a5f26ade455de6308035c57e34f0de02ef4f947b73"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/reel-poster.jpg",
+    "path": "assets/uploads/homepage--reel-poster.jpg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--reel-poster.jpg",
+    "bytes": 58800,
+    "sha256": "b785e08d5655819339620282314e15b4a0dbd080492f2d5172386965b7cc7f78"
+  },
+  {
+    "project": "homepage",
+    "source": "/assets/reel.mp4",
+    "path": "assets/uploads/homepage--reel.mp4",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/homepage--reel.mp4",
+    "bytes": 10562384,
+    "sha256": "a466efb976bde0b73eb4dcbe5fa9ce811e2035813b1df344042d87b94343abc9"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/brand-logo.svg",
+    "path": "assets/uploads/jim-thompson--brand-logo.svg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--brand-logo.svg",
+    "bytes": 6491,
+    "sha256": "36f98e942a6f2374edfe2546c41148fdae0cbe05c6ebf69a90d76501b7319fac"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-1.webp",
+    "path": "assets/uploads/jim-thompson--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-1.webp",
+    "bytes": 272410,
+    "sha256": "b4a1a393db21b4b4c5828a8a27e8dff08e09a6ae3c18879875c2cbfcdeef93ed"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-10.webp",
+    "path": "assets/uploads/jim-thompson--photo-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-10.webp",
+    "bytes": 309614,
+    "sha256": "dc98755364c64204d4413b9172276a79d836b5b81c1059f2800c24f7d5f73bcd"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-11.webp",
+    "path": "assets/uploads/jim-thompson--photo-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-11.webp",
+    "bytes": 606262,
+    "sha256": "17d97597df7c50e37b1a947b678ac184477b745ac95e40c7aa7d6e3630835c9b"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-12.webp",
+    "path": "assets/uploads/jim-thompson--photo-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-12.webp",
+    "bytes": 538600,
+    "sha256": "e540fd2b353d6453d1853e2b80643bf8fca04996d9f55b0f6e7d5c27a6a9abae"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-13.webp",
+    "path": "assets/uploads/jim-thompson--photo-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-13.webp",
+    "bytes": 426388,
+    "sha256": "68e90f9fc5c967924ee537dc05e61de6e1dfbec3e3254f6a64e388f16c3e778b"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-14.webp",
+    "path": "assets/uploads/jim-thompson--photo-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-14.webp",
+    "bytes": 383134,
+    "sha256": "2c5f6e89d39b20ab6375f77a879fb1735f3fedb1225db76efe9f3bff9b2bb9fa"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-15.webp",
+    "path": "assets/uploads/jim-thompson--photo-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-15.webp",
+    "bytes": 283460,
+    "sha256": "3caffc707359fec04edfcce9e58ebb92f52415822b59e413f476410fdef20b40"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-16.webp",
+    "path": "assets/uploads/jim-thompson--photo-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-16.webp",
+    "bytes": 180744,
+    "sha256": "efd901c34e78df13630abc2f77d60d059916d75560c7ad4cbdc1128198a8b299"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-17.webp",
+    "path": "assets/uploads/jim-thompson--photo-17.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-17.webp",
+    "bytes": 210928,
+    "sha256": "7dc1ca61f7940972139eeefc7755ddf49c37eb58e4a9d2d8b84ee992f84d1ba8"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-18.webp",
+    "path": "assets/uploads/jim-thompson--photo-18.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-18.webp",
+    "bytes": 311356,
+    "sha256": "053a60e7bc47ed3af13c59576376e653ee144ce2bb51d7c4599d20588199705d"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-19.webp",
+    "path": "assets/uploads/jim-thompson--photo-19.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-19.webp",
+    "bytes": 154192,
+    "sha256": "2e6f3fc989a249e1ec5c614de210ebbffab42aa2b4baa7a6c4dfb13ca19cc666"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-2.webp",
+    "path": "assets/uploads/jim-thompson--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-2.webp",
+    "bytes": 329600,
+    "sha256": "03ea41b34502a120aa641e4fb876c91b04dcda6649949ca0b2ceb5475ea43f66"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-20.webp",
+    "path": "assets/uploads/jim-thompson--photo-20.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-20.webp",
+    "bytes": 202352,
+    "sha256": "81a7ea63134362f9662a85320fee076db86f1fe459d6098db46f5c687a9d54cc"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-21.webp",
+    "path": "assets/uploads/jim-thompson--photo-21.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-21.webp",
+    "bytes": 261832,
+    "sha256": "af37f05e23f1b1c816dab7ab96e9a1b23ff93a4ed5e31a47adb229b602b6c421"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-22.webp",
+    "path": "assets/uploads/jim-thompson--photo-22.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-22.webp",
+    "bytes": 296576,
+    "sha256": "ff66866eee6796eff1ea898f76494eff2bd5ce864ded87c467879173bdb18971"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-23.webp",
+    "path": "assets/uploads/jim-thompson--photo-23.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-23.webp",
+    "bytes": 136136,
+    "sha256": "ddcfec9cce3cd8fd00ef791200920b413e8ba58c62f7e3c078c14bb6d2bfb2f4"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-24.webp",
+    "path": "assets/uploads/jim-thompson--photo-24.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-24.webp",
+    "bytes": 564856,
+    "sha256": "5c1951c8d082d20f26c00728ff28e6ca169e0d863debf2e9a67ff496d81bf71c"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-25.webp",
+    "path": "assets/uploads/jim-thompson--photo-25.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-25.webp",
+    "bytes": 410568,
+    "sha256": "7dceef651124ff3e8925ebe3c8b61438f237c4f05d3de0bca74cfe774be76211"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-26.webp",
+    "path": "assets/uploads/jim-thompson--photo-26.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-26.webp",
+    "bytes": 74640,
+    "sha256": "f14efe1bd7dd5e7e6e181f92f332edace4e06969bf99bece941f9712c03abaee"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-27.webp",
+    "path": "assets/uploads/jim-thompson--photo-27.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-27.webp",
+    "bytes": 69480,
+    "sha256": "b99b972bc3f4de730227de673792c1013a12b52ba2b33846e2d8e27bf8dc7675"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-28.webp",
+    "path": "assets/uploads/jim-thompson--photo-28.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-28.webp",
+    "bytes": 69104,
+    "sha256": "d0f8777a2ecf8ff68d1bb3d8fc639fe5c9016a157584ddf14230d69322d710c2"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-29.webp",
+    "path": "assets/uploads/jim-thompson--photo-29.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-29.webp",
+    "bytes": 477644,
+    "sha256": "cb491c69b3f79b73944064d0ac78166ad1c8c49a84183aab9953d4f580af2642"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-3.webp",
+    "path": "assets/uploads/jim-thompson--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-3.webp",
+    "bytes": 208892,
+    "sha256": "a5287a1e7360dd6874878c9652e12acd7ef545863d76adefd7aac46817cffeb2"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-30.webp",
+    "path": "assets/uploads/jim-thompson--photo-30.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-30.webp",
+    "bytes": 744836,
+    "sha256": "0eb5fef930c03a35bd427af3679efa9c9f114a5bb5ada030eb801dcc9da91a4a"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-31.webp",
+    "path": "assets/uploads/jim-thompson--photo-31.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-31.webp",
+    "bytes": 627948,
+    "sha256": "32b97831f02c5fd8e4c23ee9a1fb3d90ad045fc345cc380fb40c4a367da73df1"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-32.webp",
+    "path": "assets/uploads/jim-thompson--photo-32.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-32.webp",
+    "bytes": 1077912,
+    "sha256": "445ac17b4f75b5cbbac48199bfc72926dffc224cb123c9c402bada3991412ac9"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-33.webp",
+    "path": "assets/uploads/jim-thompson--photo-33.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-33.webp",
+    "bytes": 764604,
+    "sha256": "1a62b5ca91f4e06b16d04ec77666e9d1886bd047addcb205a4074b9fbb370e77"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-4.webp",
+    "path": "assets/uploads/jim-thompson--photo-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-4.webp",
+    "bytes": 455544,
+    "sha256": "c9f647ff2fe2667f571e79ee3329e053049b84b50122e991fbf5dbd2f7374a98"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-5.webp",
+    "path": "assets/uploads/jim-thompson--photo-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-5.webp",
+    "bytes": 85826,
+    "sha256": "d042603a64db952a17f5a43bcc0eada8e57448052416ecc56851f51d4e96f224"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-6.webp",
+    "path": "assets/uploads/jim-thompson--photo-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-6.webp",
+    "bytes": 71972,
+    "sha256": "1db3c397d5b74c43d91e7ec1fdaf6f5183b867346a95ceaa09221aa5d8d811ef"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-7.webp",
+    "path": "assets/uploads/jim-thompson--photo-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-7.webp",
+    "bytes": 65306,
+    "sha256": "5ed0eeef69652bec5fb51ff5e0dd94afdf5898121083158d9a4ba5b894376b6a"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-8.webp",
+    "path": "assets/uploads/jim-thompson--photo-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-8.webp",
+    "bytes": 433732,
+    "sha256": "06af1377e511207177a7733858ae449c79fe4c8143fd456dc3411baeeaebbfdd"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/photo-9.webp",
+    "path": "assets/uploads/jim-thompson--photo-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--photo-9.webp",
+    "bytes": 396998,
+    "sha256": "958dc8a184bc10769cb840426079080c9dd12b6e55e55d288f0df7817ea65cbe"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/poster.jpg",
+    "path": "assets/uploads/jim-thompson--poster.jpg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--poster.jpg",
+    "bytes": 56545,
+    "sha256": "55f0648ebd7bbabc08bed4f1fded7da263e53805b13fe1490be3f3285f960f92"
+  },
+  {
+    "project": "jim-thompson",
+    "source": "/assets/jim-thompson/studio.mp4",
+    "path": "assets/uploads/jim-thompson--studio.mp4",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/jim-thompson--studio.mp4",
+    "bytes": 5563118,
+    "sha256": "51e229fa7d2c0655de446667c2df4468f9d4dbe546842e43fb23b10069503e3f"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-1.webp",
+    "path": "assets/uploads/sandbox--photo-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-1.webp",
+    "bytes": 75662,
+    "sha256": "195c39839c8599e58de68d18f6ddc65806810d2e3ae610587e57a8af4bc00437"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-10.webp",
+    "path": "assets/uploads/sandbox--photo-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-10.webp",
+    "bytes": 516948,
+    "sha256": "706df1c473cf06cf3b1967c985ad1d00f0cf9afc98fa48f462a44835bd7f921b"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-11.webp",
+    "path": "assets/uploads/sandbox--photo-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-11.webp",
+    "bytes": 534864,
+    "sha256": "eedc5e3e4f2e4a640a2f3f91195f8af85f46943ae1913528d89333b415a30faf"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-12.webp",
+    "path": "assets/uploads/sandbox--photo-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-12.webp",
+    "bytes": 390792,
+    "sha256": "4f786c47eee063b3eac08b2a32b988cf07b86e4bc8bb376e60b74508c18b7c9d"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-13.webp",
+    "path": "assets/uploads/sandbox--photo-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-13.webp",
+    "bytes": 276954,
+    "sha256": "b78c1c71228f36b09f266ee4e69dfd107dcaafa3682c0d29da95db28c2ff7dd6"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-14.webp",
+    "path": "assets/uploads/sandbox--photo-14.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-14.webp",
+    "bytes": 216972,
+    "sha256": "7ac179eb07f7bf6db820bd28ea5d10300e92765bb6b64f90a23b2d3ba87d1994"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-15.webp",
+    "path": "assets/uploads/sandbox--photo-15.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-15.webp",
+    "bytes": 156762,
+    "sha256": "4de2559f5cac90a538617d65de92018fab749e604ea58896aac469cadaf0c542"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-16.webp",
+    "path": "assets/uploads/sandbox--photo-16.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-16.webp",
+    "bytes": 269998,
+    "sha256": "df1ef94ebbe0c96b67ebcd3a41aac70beeef70296e3348d6c137444baa1a217b"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-17.webp",
+    "path": "assets/uploads/sandbox--photo-17.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-17.webp",
+    "bytes": 252432,
+    "sha256": "88af89d1bc68b3d7614440944929966d01ab2a59010c9e4048f7d512816941c7"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-18.webp",
+    "path": "assets/uploads/sandbox--photo-18.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-18.webp",
+    "bytes": 776426,
+    "sha256": "02acf72a885ac432866760799b1bf4d601e70575c6cbd0ef72bf2e3fe34b60c2"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-19.webp",
+    "path": "assets/uploads/sandbox--photo-19.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-19.webp",
+    "bytes": 790796,
+    "sha256": "eed4da62373d33205d71059ff9ed7ddf66fafc335074cac890858eee5888ba4c"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-2.webp",
+    "path": "assets/uploads/sandbox--photo-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-2.webp",
+    "bytes": 88388,
+    "sha256": "14f2f736ebe392adff6f7ffbdbdbc520c8deb5ec94aaa7cae583b3cfe3653d9f"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-20.webp",
+    "path": "assets/uploads/sandbox--photo-20.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-20.webp",
+    "bytes": 516840,
+    "sha256": "d60e0a1bcc057332ac28ec6c7b6da73980290338246452033a8446ff9c924f3a"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-3.webp",
+    "path": "assets/uploads/sandbox--photo-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-3.webp",
+    "bytes": 116282,
+    "sha256": "512c8f09474d3677eaa199964efa24d8c899821ac0051d5a168f7f92bc1b931a"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-4.webp",
+    "path": "assets/uploads/sandbox--photo-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-4.webp",
+    "bytes": 140308,
+    "sha256": "c67df3d218d2e5219ef2b5ee65deda285a4bcc2bda4dc5cea74553f0f0f7264f"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-5.webp",
+    "path": "assets/uploads/sandbox--photo-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-5.webp",
+    "bytes": 776726,
+    "sha256": "d6a0ef75f3ea0ee7b1e3592c26b78aa01428dcfa5b237a3fd1b332e4a790784d"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-6.webp",
+    "path": "assets/uploads/sandbox--photo-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-6.webp",
+    "bytes": 572612,
+    "sha256": "4ad803eb68f7296785e92162179cfabcd1c84713c355b161799d65e2382e9716"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-7.webp",
+    "path": "assets/uploads/sandbox--photo-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-7.webp",
+    "bytes": 222636,
+    "sha256": "178d086f61cc763547d005704886b2ab09c1661fd8449a42e69cb3af14ea7910"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-8.webp",
+    "path": "assets/uploads/sandbox--photo-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-8.webp",
+    "bytes": 420396,
+    "sha256": "991c6f5096cbbd103bae06913213399572dca72e587d0eed7ac0a1944e4e1fbe"
+  },
+  {
+    "project": "sandbox",
+    "source": "/assets/sandbox/photo-9.webp",
+    "path": "assets/uploads/sandbox--photo-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/sandbox--photo-9.webp",
+    "bytes": 106688,
+    "sha256": "f76e5d5defaaeb0ffea80924d65865074753d9bcf3ab48c065a42e53747667d5"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/interface.mp4",
+    "path": "assets/uploads/telemidi--interface.mp4",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--interface.mp4",
+    "bytes": 4365183,
+    "sha256": "5ae4f5c470058698450ddcea2a8d15f9c8a6096b894d4fa53dd796d68aadf105"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/poster.jpg",
+    "path": "assets/uploads/telemidi--poster.jpg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--poster.jpg",
+    "bytes": 146683,
+    "sha256": "6d039ca33b0a5155b87364c83ccb237ced6945e0cdf5583d6638b2b014a29af8"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-1.webp",
+    "path": "assets/uploads/telemidi--slide-1.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-1.webp",
+    "bytes": 230376,
+    "sha256": "f304b0a5aa7f8b0b169524fbbf0ae9d72831c849ef562e50fc3d093bac1dd14a"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-10.webp",
+    "path": "assets/uploads/telemidi--slide-10.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-10.webp",
+    "bytes": 126292,
+    "sha256": "9f446c66138b63bd76601542f72877e6471356a0a493e9bb3cf092a307f8d7b0"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-11.webp",
+    "path": "assets/uploads/telemidi--slide-11.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-11.webp",
+    "bytes": 147292,
+    "sha256": "f88eae9291f2d5861633b8ad0117b4b67133e45211deb6389a7ae99d3816c344"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-12.webp",
+    "path": "assets/uploads/telemidi--slide-12.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-12.webp",
+    "bytes": 117256,
+    "sha256": "9a0309a5301f780b6aca2c49de121d3dc9d1e63d4216929fceae36a193193db6"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-13.webp",
+    "path": "assets/uploads/telemidi--slide-13.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-13.webp",
+    "bytes": 219956,
+    "sha256": "7c4e13ddee2d78ec19e6cb5c7eee121ad701df2492d59098adad2b339e142440"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-2.webp",
+    "path": "assets/uploads/telemidi--slide-2.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-2.webp",
+    "bytes": 99256,
+    "sha256": "1abe2d8cac776f2c48a496a8c34c249d0c0bf2a05a25d30bd292c0c7beaea01b"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-3.webp",
+    "path": "assets/uploads/telemidi--slide-3.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-3.webp",
+    "bytes": 111204,
+    "sha256": "94f74b76c7e277791d6711139099ebed133e58cad21d2df82472a5b0def9d653"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-4.webp",
+    "path": "assets/uploads/telemidi--slide-4.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-4.webp",
+    "bytes": 261328,
+    "sha256": "cb71b8206eadc619bf26704602929bd05c615488c8e37f7b3da48a818212520f"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-5.webp",
+    "path": "assets/uploads/telemidi--slide-5.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-5.webp",
+    "bytes": 172406,
+    "sha256": "b28b965cb3d255d540f372b9605deb0a7fe7cdaf144f6384e70930d9a91c24ac"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-6.webp",
+    "path": "assets/uploads/telemidi--slide-6.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-6.webp",
+    "bytes": 91026,
+    "sha256": "bf080ca4f306c1e1232c5cbd9eea5c8ae08c1c2a2ef6738e0b274dd4e1768c9e"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-7.webp",
+    "path": "assets/uploads/telemidi--slide-7.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-7.webp",
+    "bytes": 79774,
+    "sha256": "eb4e226312dc232ff99c9c63109cc0c980c3d3f2033547305e7ff1bccff41bb2"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-8.webp",
+    "path": "assets/uploads/telemidi--slide-8.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-8.webp",
+    "bytes": 330126,
+    "sha256": "cdaf565ab00a3cc973885c2f0c437002ae3bb8b4d42d290509b921f85eaf3847"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/slide-9.webp",
+    "path": "assets/uploads/telemidi--slide-9.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--slide-9.webp",
+    "bytes": 114984,
+    "sha256": "580e0113fb8269a8f0ba542b04b402db9c787ab0c91b5207d2f6f5657b40d0de"
+  },
+  {
+    "project": "telemidi",
+    "source": "/assets/telemidi/title.webp",
+    "path": "assets/uploads/telemidi--title.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/telemidi--title.webp",
+    "bytes": 295288,
+    "sha256": "1ab5e88e502faa438002b989a5c87c6e1518ad9aeb3b10c532a722235f91fd22"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/duolingo-poker-title.webp",
+    "path": "assets/uploads/tonys-table--duolingo-poker-title.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--duolingo-poker-title.webp",
+    "bytes": 53940,
+    "sha256": "d05bb710c72576e99abb758ae7c1ed50c6d1c744a0f50e01cc55b1b2465c5b42"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/duopoker-demo-poster.jpg",
+    "path": "assets/uploads/tonys-table--duopoker-demo-poster.jpg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--duopoker-demo-poster.jpg",
+    "bytes": 99661,
+    "sha256": "820e54ad0906eed32a6a7386d61bbb3f82e7798319ccaaea7f00b8d30d89e055"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/duopoker-demo-silent.mp4",
+    "path": "assets/uploads/tonys-table--duopoker-demo-silent.mp4",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--duopoker-demo-silent.mp4",
+    "bytes": 4753597,
+    "sha256": "795ed025955fc92679fd0eb5834b71b24da446e7673192a527084b85ea1e560c"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/duopoker-demo.mp4",
+    "path": "assets/uploads/tonys-table--duopoker-demo.mp4",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--duopoker-demo.mp4",
+    "bytes": 7535707,
+    "sha256": "547a3a5c1bf2dca14b76bc7e870d88b5992a3bd709ff7667c1cd3d644281a2a2"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/innovator-forum-brief.pdf",
+    "path": "assets/uploads/tonys-table--innovator-forum-brief.pdf",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--innovator-forum-brief.pdf",
+    "bytes": 464372,
+    "sha256": "015042dcf0416772106998ae9a8845262050a7d279ec4f8d7b7d368cc7eba847"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/lily.svg",
+    "path": "assets/uploads/tonys-table--lily.svg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--lily.svg",
+    "bytes": 5248,
+    "sha256": "ac1921c738baf5b67c129097f23e78e839315abc6f75e2cf5ccf07a8dc5a8255"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/team-photo.jpg",
+    "path": "assets/uploads/tonys-table--team-photo.jpg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--team-photo.jpg",
+    "bytes": 751615,
+    "sha256": "721869dfd4b3899bfda0e750e559000c5542a8ede9bfba5222c4c57c219055c7"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/tony-character-family.webp",
+    "path": "assets/uploads/tonys-table--tony-character-family.webp",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--tony-character-family.webp",
+    "bytes": 82984,
+    "sha256": "ab60d78c01cad7885e2183c6b3fe55452a10de965771d121823c4556f0d5de85"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/tony.svg",
+    "path": "assets/uploads/tonys-table--tony.svg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--tony.svg",
+    "bytes": 7021,
+    "sha256": "8e8eac2b9cdd511ba8b74d322bf45a6de77186cf9cdab58b93db4e269bca80af"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/tonys-table-artwork.svg",
+    "path": "assets/uploads/tonys-table--tonys-table-artwork.svg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--tonys-table-artwork.svg",
+    "bytes": 7756,
+    "sha256": "6e0ddaf106c4018e7c3d29ebdf3e8f93419e3eb9fb26ca64323b8a0126d7fb6d"
+  },
+  {
+    "project": "duolingo-character",
+    "source": "/assets/duolingo/tonys-table-cover.svg",
+    "path": "assets/uploads/tonys-table--tonys-table-cover.svg",
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/uploads/tonys-table--tonys-table-cover.svg",
+    "bytes": 1479,
+    "sha256": "1c8a99e454f45a378e0a93348114d91ce0ff6503aad31f54abe84933d27d489e"
+  }
+]
