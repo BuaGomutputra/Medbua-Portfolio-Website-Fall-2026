@@ -1,5 +1,15 @@
 # Portfolio media in Decap
 
+## Project and homepage folders
+
+Each project now has its own entry in `content/projects/<project-id>/index.json` and a media folder at `assets/projects/<project-id>/`. Cover and gallery pickers open that project's folder. Use **Upload files together** in Project gallery to stage a batch, add captions, arrange it, and publish the project to commit the files together.
+
+Homepage settings are in `content/homepage.json` and homepage media is in `assets/homepage/`. The Photo strip supports the same batch upload controls.
+
+The original `content/portfolio.json` and general library below remain available for compatibility.
+
+## General Media library
+
 The site's existing images, videos, and PDFs are stored in `assets/uploads`, which is the folder the live Decap media library reads.
 
 Open **Media** in Decap, or choose an image/file from a project field. Search by project name:

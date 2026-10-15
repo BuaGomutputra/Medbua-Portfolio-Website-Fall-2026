@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "selected": [
+    "duolingo-character",
+    "telemidi",
+    "jim-thompson"
+  ],
+  "project_order": [
+    "duolingo-character",
+    "telemidi",
+    "jim-thompson",
+    "ecopinet",
+    "ev-charging-hub",
+    "energy-tiles",
+    "weave-well"
+  ],
+  "intro": {
+    "name": "Bua Gomutputra",
+    "disciplines": [
+      "Design",
+      "Technology",
+      "Business",
+      "Impact"
+    ],
+    "identity": "An endlessly curious learner,\ncommunity builder,\nand interdisciplinary founder.",
+    "bridge": "Designing across creativity, technology, and human connection.",
+    "story": "I connect people, ideas, and disciplines.\nThen see where they can go.",
+    "tagline": "Curiosity with somewhere to go."
+  },
+  "film": {
+    "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/reel.mp4",
+    "poster": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/reel-poster.jpg"
+  },
+  "moments": [
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-1.webp",
+      "type": "image",
+      "caption": "Hands-on making",
+      "alt": "Working on a wooden design in a workshop"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-2.webp",
+      "type": "image",
+      "caption": "Building together",
+      "alt": "Working with a tool on an outdoor structure"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-3.webp",
+      "type": "image",
+      "caption": "Learning together",
+      "alt": "Helping students with a hands-on activity"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-4.webp",
+      "type": "image",
+      "caption": "Community Engagement",
+      "alt": "A group gathered outdoors"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-5.webp",
+      "type": "image",
+      "caption": "The Future of EV Charging in Thailand",
+      "alt": "Standing beside an architectural model"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-6.webp",
+      "type": "image",
+      "caption": "On the TEDx stage",
+      "alt": "Two speakers on a TEDx Youth stage"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-7.webp",
+      "type": "image",
+      "caption": "Pitching our Non-profit to Industry",
+      "alt": "Presenting a project beside a screen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BuaGomutputra/Medbua-Portfolio-Website-Fall-2026/main/assets/homepage/carousel-new-8.webp",
+      "type": "image",
+      "caption": "Finding my voice",
+      "alt": "Speaking into a microphone on stage"
+    }
+  ]
+}
